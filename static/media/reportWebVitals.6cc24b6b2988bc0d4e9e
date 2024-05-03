@@ -1,0 +1,5 @@
+function reportWebVitals(){
+    console.log("OK!");
+}
+
+export default reportWebVitals

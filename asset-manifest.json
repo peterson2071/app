@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9681218.css",
+    "main.js": "/static/js/main.9e62d313.js",
+    "static/media/virtual-reality-headset-samsung-gear-vr-mobile-phones-tilt-brush-vr-headset-png": "/static/media/virtual-reality-headset-samsung-gear-vr-mobile-phones-tilt-brush-vr-headset-6a2949a1c73d8c69e9d28c0be288e951.542a47a9edd70431429f.png",
+    "static/media/blockchain-trends-2020.jpg": "/static/media/blockchain-trends-2020.6c8dabbad991721bd28b.jpg",
+    "static/media/3211465.jpg": "/static/media/3211465.8c908ce5d51d13ae6d58.jpg",
+    "static/media/680349.jpg": "/static/media/680349.2217228d92c02394830c.jpg",
+    "static/media/fourth-industrial-revolution-artificial-intelligence-machine-learning-robot-deceuninck-png": "/static/media/fourth-industrial-revolution-artificial-intelligence-machine-learning-robot-deceuninck-293f05dda57af4e5273c019d2fd7b5eb.96f640bb0444b285a725.png",
+    "static/media/cyber-security (original).jpg": "/static/media/cyber-security (original).fc32b3706079f12cf58c.jpg",
+    "static/media/wp2042139.jpg": "/static/media/wp2042139.3057388702c5c7a67bb9.jpg",
+    "static/media/st_small_507x507-pad_600x600_f8f8f8.u11_adobe_express.svg": "/static/media/st_small_507x507-pad_600x600_f8f8f8.u11_adobe_express.a69e9b0da6fdd4d5536c1488f59dce57.svg",
+    "index.html": "/index.html",
+    "static/media/reportWebVitals": "/static/media/reportWebVitals.6cc24b6b2988bc0d4e9e",
+    "main.f9681218.css.map": "/static/css/main.f9681218.css.map",
+    "main.9e62d313.js.map": "/static/js/main.9e62d313.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9681218.css",
+    "static/js/main.9e62d313.js"
+  ]
+}
